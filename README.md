@@ -68,6 +68,7 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 - https://www.ardusimple.com/simplertk2b/
 - https://alienpowersystem.com/shop/batteries/10s-batteries/sony-vtc6-10s3p-battery-pack-with-bms/
 - http://gryphondynamics.co.kr/product/hyper-hv-becgsr-6005md?ckattempt=1
+- https://up-shop.org/2-5-ssd-256gb-with-sata-power-cable-and-data-cable.html
 ![2](https://user-images.githubusercontent.com/6362413/149921602-7e16bff3-0ddd-4a06-82d8-c6cd77bd8662.png)
 
 
