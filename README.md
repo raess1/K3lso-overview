@@ -6,6 +6,7 @@ https://github.com/raess1/k3lso3_ros2
 
 **#K3lso-CAN-communication (setup, config and tuning for performace).**    
 https://github.com/raess1/K3lso-CAN-communication  
+![Blueprint](https://user-images.githubusercontent.com/6362413/129439633-dfff9340-0734-4948-9a9c-f96ab7d19157.png)
 
 **#RL and classical techniques applied to robotics.  (Pybullet sim with Mpc controller from https://github.com/google-research/motion_imitation)**  
 https://github.com/raess1/robot-gym/tree/k3lso-stable 
