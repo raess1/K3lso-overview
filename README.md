@@ -21,6 +21,16 @@ Read more about it here: https://zenoh.io/blog/2021-09-28-iac-experiences-from-t
 **#k3lso build thread**  
 https://quadrupedalism.com/d/9-k3lso-quadruped/63
 
+**#simple list of some diffrent k3lso videos**
+- https://www.youtube.com/watch?v=p7Jnssaed9Q
+- https://www.youtube.com/watch?v=oWJBwPeKaWo
+- https://www.youtube.com/watch?v=O4hkkRMySDE
+- https://www.youtube.com/watch?v=wZvCjqzCR1U&t=26s
+- https://www.youtube.com/watch?v=2s_byxqWWyc
+- https://www.youtube.com/watch?v=oj64H08w6rs
+- https://www.youtube.com/watch?v=9QKG5f-g5fE
+- https://www.youtube.com/watch?v=sCLZxOWQ8j0
+
 
 
 
@@ -40,6 +50,7 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 - https://github.com/IntelRealSense/librealsense/blob/master/doc/t265.md
 - https://www.ardusimple.com/simplertk2b/
 - https://alienpowersystem.com/shop/batteries/10s-batteries/sony-vtc6-10s3p-battery-pack-with-bms/
+- http://gryphondynamics.co.kr/product/hyper-hv-becgsr-6005md?ckattempt=1
 -
 
 
@@ -51,6 +62,8 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 
 **#simple list of available software related to quads.**    
 https://quadrupedalism.com/d/14-a-list-of-software-quadruped-related
+
+
 
 
 
