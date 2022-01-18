@@ -51,11 +51,10 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 
 
 
-**#Other relevant links**   
-- https://github.com/mjbots/moteus
-- https://github.com/mjbots/moteus/blob/main/docs/getting_started.md
-- https://github.com/mjbots/moteus/blob/main/docs/reference.md
-- https://github.com/mjbots/power_dist
+**#hardware relevant links**   
+- https://mjbots.com/products/moteus-r4-8
+- https://mjbots.com/collections/accessories/products/mjbots-power-dist-r4-3b
+- https://mjbots.com/collections/accessories/products/fdcanusb
 - https://www.peak-system.com/PCAN-M-2.473.0.html?&L=1
 - https://www.peak-system.com/PCAN-miniPCIe-FD.464.0.html?&L=1
 - https://up-board.org/up-xtreme/
@@ -70,6 +69,13 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 - http://gryphondynamics.co.kr/product/hyper-hv-becgsr-6005md?ckattempt=1
 - https://up-shop.org/2-5-ssd-256gb-with-sata-power-cable-and-data-cable.html
 ![2](https://user-images.githubusercontent.com/6362413/149921602-7e16bff3-0ddd-4a06-82d8-c6cd77bd8662.png)
+
+**#Other relevant links related to HW**   
+- https://github.com/mjbots/moteus
+- https://github.com/mjbots/moteus/blob/main/docs/getting_started.md
+- https://github.com/mjbots/moteus/blob/main/docs/reference.md
+- https://github.com/mjbots/power_dist
+- 
 
 
 
