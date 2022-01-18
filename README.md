@@ -8,7 +8,10 @@ https://github.com/raess1/k3lso3_ros2
 https://github.com/raess1/K3lso-CAN-communication  
 
 **#RL and classical techniques applied to robotics.  (Pybullet sim with Mpc controller from https://github.com/google-research/motion_imitation)**  
-https://github.com/raess1/robot-gym/tree/k3lso-stable  
+https://github.com/raess1/robot-gym/tree/k3lso-stable 
+**Check some test videos here:**  
+- https://www.youtube.com/watch?v=ptODjaZl0ag
+- https://www.youtube.com/watch?v=YqzNBuX9sTY
 
 **#UPXtreme-RT-kernel Ubuntu 20.04.3 LTS (Focal Fossa) (Custom built RT kernel steps for UP extreme.)**  
 https://github.com/raess1/UPxtreme-RT-kernel-20.04
