@@ -89,6 +89,22 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 https://quadrupedalism.com/d/14-a-list-of-software-quadruped-related
 
 
+**my previous quad related projects**
+- https://www.youtube.com/watch?v=zGaNkD-8fjM
+- https://www.youtube.com/watch?v=X-pZ0OAOto8&t=54s
+- https://www.youtube.com/watch?v=rZm7FvS3Q0U
+- https://www.youtube.com/watch?v=Sp1nXspIky4
+- https://www.youtube.com/watch?v=s-1ibVk-hxk
+- https://www.youtube.com/watch?v=rdsPNq3ZC7c
+- https://www.youtube.com/watch?v=Qg-Uf0DD3Rw
+- https://www.youtube.com/watch?v=fmEonnHehVY
+- https://www.youtube.com/watch?v=pD8hT4pi778
+- https://www.youtube.com/watch?v=98dQoElWNPY
+- https://www.youtube.com/watch?v=Ysdp43yhmrM
+- https://www.youtube.com/watch?v=9mlmYSimQLk
+- https://www.youtube.com/watch?v=Ysdp43yhmrM
+- https://www.youtube.com/watch?v=iflbHGTBwwo 
+
 
 
 
