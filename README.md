@@ -46,7 +46,8 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 
 
 **#collect various papers related to robotics and legged robotics can be found here.**    
-https://quadrupedalism.com/d/22-a-list-of-quad-related-papers  
+- https://quadrupedalism.com/d/22-a-list-of-quad-related-papers  
+- https://github.com/mit-biomimetics/Cheetah-Software
 
 **#simple list of available software related to quads.**    
 https://quadrupedalism.com/d/14-a-list-of-software-quadruped-related
