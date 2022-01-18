@@ -22,11 +22,30 @@ Read more about it here: https://zenoh.io/blog/2021-09-28-iac-experiences-from-t
 
 
 
-#Other interesting links 
+#Other relevant links 
+- https://github.com/mjbots/moteus
+- https://github.com/mjbots/moteus/blob/main/docs/getting_started.md
+- https://github.com/mjbots/moteus/blob/main/docs/reference.md
+- https://github.com/mjbots/power_dist
+- https://www.peak-system.com/PCAN-M-2.473.0.html?&L=1
+- https://www.peak-system.com/PCAN-miniPCIe-FD.464.0.html?&L=1
+- https://up-board.org/up-xtreme/
+- https://up-shop.org/up-vision-plus-x.html
+- https://www.vectornav.com/products/detail/vn-100
+- https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-xavier-nx/
+- https://www.intelrealsense.com/depth-camera-d435i/
+- https://www.intelrealsense.com/depth-camera-d455/
+- https://github.com/IntelRealSense/librealsense/blob/master/doc/t265.md
+- https://www.ardusimple.com/simplertk2b/
+- https://alienpowersystem.com/shop/batteries/10s-batteries/sony-vtc6-10s3p-battery-pack-with-bms/
+- 
+- 
 
 
 
 
+#collect various papers related to robotics and legged robotics can be found here.
+https://quadrupedalism.com/d/22-a-list-of-quad-related-papers
 
 
 
