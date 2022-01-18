@@ -13,6 +13,9 @@ https://github.com/raess1/robot-gym/tree/k3lso-stable
 **Check some test videos here:**  
 - https://www.youtube.com/watch?v=ptODjaZl0ag
 - https://www.youtube.com/watch?v=YqzNBuX9sTY
+![ExokCGp8](https://user-images.githubusercontent.com/6362413/149921249-ac3e29ba-b421-41f7-bad2-0ad3db64ddd1.jpeg)
+
+
 
 **#UPXtreme-RT-kernel Ubuntu 20.04.3 LTS (Focal Fossa) (Custom built RT kernel steps for UP extreme.)**  
 https://github.com/raess1/UPxtreme-RT-kernel-20.04
