@@ -24,10 +24,14 @@ https://github.com/raess1/robot-gym/tree/k3lso-stable
 
 **#UPXtreme-RT-kernel Ubuntu 20.04.3 LTS (Focal Fossa) (Custom built RT kernel steps for UP extreme.)**  
 https://github.com/raess1/UPxtreme-RT-kernel-20.04
+![110928261-f9549d00-8326-11eb-8fd7-2f6ee0ad353e](https://user-images.githubusercontent.com/6362413/149921911-341bf2de-3a74-45fb-9529-e2e67b079fde.png)
+
 
 **#Notes on setup for ROS2 Cyclone DDS + zenoh-plugin-dds (ROS2 Cyclone DDS + zenoh-ros2-dds plugin)**    
 https://github.com/raess1/NOTES-on-ROS2-Cyclone-DDS-zenith-ros2-dds-plugin  
 Read more about it here: https://zenoh.io/blog/2021-09-28-iac-experiences-from-the-trenches/
+![open-port](https://user-images.githubusercontent.com/6362413/149922122-226ac50c-e758-4024-bd64-1f55bfa8e74d.png)
+
 
 
 **#k3lso build thread**  
