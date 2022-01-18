@@ -18,13 +18,13 @@ https://github.com/raess1/NOTES-on-ROS2-Cyclone-DDS-zenith-ros2-dds-plugin
 Read more about it here: https://zenoh.io/blog/2021-09-28-iac-experiences-from-the-trenches/
 
 
-#k3lso build thread
+**#k3lso build thread**  
 https://quadrupedalism.com/d/9-k3lso-quadruped/63
 
 
 
 
-#Other relevant links 
+**#Other relevant links**   
 - https://github.com/mjbots/moteus
 - https://github.com/mjbots/moteus/blob/main/docs/getting_started.md
 - https://github.com/mjbots/moteus/blob/main/docs/reference.md
@@ -45,10 +45,10 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 
 
 
-#collect various papers related to robotics and legged robotics can be found here.  
+**#collect various papers related to robotics and legged robotics can be found here.**    
 https://quadrupedalism.com/d/22-a-list-of-quad-related-papers  
 
-#simple list of available software related to quads.  
+**#simple list of available software related to quads.**    
 https://quadrupedalism.com/d/14-a-list-of-software-quadruped-related
 
 
