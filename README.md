@@ -1,8 +1,11 @@
 # K3lso-overview
+
 **A Collection of k3lso related repos**
 
 **ROS2 Packages for K3lso quadruped Robot (includes k3lso_vectornav, k3lso_moteus, k3lso_description)**  
 https://github.com/raess1/k3lso3_ros2  
+![Screenshot_from_2021-09-18_21-49-47](https://user-images.githubusercontent.com/6362413/149921513-8f3acdfe-d6e1-4da2-afb0-4426f42a335b.png)
+
 
 **#K3lso-CAN-communication (setup, config and tuning for performace).**    
 https://github.com/raess1/K3lso-CAN-communication  
@@ -41,6 +44,7 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 
 
 
+
 **#Other relevant links**   
 - https://github.com/mjbots/moteus
 - https://github.com/mjbots/moteus/blob/main/docs/getting_started.md
@@ -58,7 +62,8 @@ https://quadrupedalism.com/d/9-k3lso-quadruped/63
 - https://www.ardusimple.com/simplertk2b/
 - https://alienpowersystem.com/shop/batteries/10s-batteries/sony-vtc6-10s3p-battery-pack-with-bms/
 - http://gryphondynamics.co.kr/product/hyper-hv-becgsr-6005md?ckattempt=1
--
+![2](https://user-images.githubusercontent.com/6362413/149921602-7e16bff3-0ddd-4a06-82d8-c6cd77bd8662.png)
+
 
 
 
