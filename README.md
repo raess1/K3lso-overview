@@ -20,6 +20,10 @@ https://github.com/raess1/robot-gym/tree/k3lso-stable
 - https://www.youtube.com/watch?v=YqzNBuX9sTY
 ![ExokCGp8](https://user-images.githubusercontent.com/6362413/149921249-ac3e29ba-b421-41f7-bad2-0ad3db64ddd1.jpeg)
 
+**#MIT Software K3lso simulation in pybullet**
+https://github.com/raess1/quadruped_ctr
+
+![mit](https://user-images.githubusercontent.com/6362413/150015194-39bd68e0-16ab-409e-95bb-c80c34c54450.png)
 
 
 **#UPXtreme-RT-kernel Ubuntu 20.04.3 LTS (Focal Fossa) (Custom built RT kernel steps for UP extreme.)**  
