@@ -18,6 +18,8 @@ https://github.com/raess1/NOTES-on-ROS2-Cyclone-DDS-zenith-ros2-dds-plugin
 Read more about it here: https://zenoh.io/blog/2021-09-28-iac-experiences-from-the-trenches/
 
 
+#k3lso build thread
+https://quadrupedalism.com/d/9-k3lso-quadruped/63
 
 
 
@@ -38,14 +40,18 @@ Read more about it here: https://zenoh.io/blog/2021-09-28-iac-experiences-from-t
 - https://github.com/IntelRealSense/librealsense/blob/master/doc/t265.md
 - https://www.ardusimple.com/simplertk2b/
 - https://alienpowersystem.com/shop/batteries/10s-batteries/sony-vtc6-10s3p-battery-pack-with-bms/
-- 
-- 
+-
 
 
 
 
-#collect various papers related to robotics and legged robotics can be found here.
-https://quadrupedalism.com/d/22-a-list-of-quad-related-papers
+#collect various papers related to robotics and legged robotics can be found here.  
+https://quadrupedalism.com/d/22-a-list-of-quad-related-papers  
+
+#simple list of available software related to quads.  
+https://quadrupedalism.com/d/14-a-list-of-software-quadruped-related
+
+
 
 
 
