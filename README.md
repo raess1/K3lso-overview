@@ -109,6 +109,8 @@ https://quadrupedalism.com/d/14-a-list-of-software-quadruped-related
 - https://www.youtube.com/watch?v=Ysdp43yhmrM
 - https://www.youtube.com/watch?v=iflbHGTBwwo 
 
+**Links to Quadruped Robot Basics learning**
+- https://www.youtube.com/watch?v=O_2swSMecB4
 
 
 
